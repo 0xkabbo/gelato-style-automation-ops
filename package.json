@@ -1,0 +1,10 @@
+{
+  "name": "gelato-style-automation",
+  "version": "1.0.0",
+  "description": "Conditional and time-based smart contract execution",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
